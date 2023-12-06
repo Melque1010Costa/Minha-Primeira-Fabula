@@ -12,7 +12,7 @@
 
     
     <page background="OIG.jpg" soundtrack="audio2.wav">
-       <agent x="180" y="110" width="120" height="120" img="Davi_tocando.png"/>
+       <agent x="180" y="110" width="120" height="120" img="page 1.jpg.png"/>
         
        <agent x="100" y="320" text="Ouça Davi tocando a sua bela harpa!"/>
         
