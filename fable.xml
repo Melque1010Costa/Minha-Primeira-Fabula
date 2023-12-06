@@ -1,7 +1,7 @@
 <fable>
 	<page background="branco">
-        <agent x="50" y="250" width="400" height="200" text="Você sabe como aconteceu o princípio de tudo?"/>
-        <agent x = 
+        <agent x="80" y="250" width="400" height="200" text="Você sabe como aconteceu o princípio de tudo?"/>
+        <agent x = "50" y="350" width = "400" height ="200" text="Olhe à sua volta, sinta o ar, veja o céu, o sol, as estrelas, o mar, a linda natureza com todos os animais... Quem será que fez tudo isso? Quem será que fez você, seus pais, sua família? Quem é o autor da vida?"
         <agent x="100" y="50" width="300" height="350" img="Davi_intro.png"/>  
         <agent x="440" y="30" width="50" height="50" img="Sign_2.png" on-touch="_NEXT_PAGE"/>
         
