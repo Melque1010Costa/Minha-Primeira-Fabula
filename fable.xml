@@ -11,7 +11,8 @@
     <page background="branco">
         <agent x="60" y="250" width="400" height="200" text="Houve um tempo em que as pessoas se esqueceram de Deus e só faziam coisas erradas. Todos eram maus, apenas um homem junto com a sua família permaneceu amando e obedecendo a Deus. "/>   
        
-        <agent x="0" y="100" width="600" height="300" img="pecado.png"/>  
+        <agent x="0" y="" width="600" height="300" img="pecado.png"/>  
+        <agent x="0" y="-40" width="200" height="200" img="seta_esquerda.png" on-touch="_PREV_PAGE"/> 
         <agent x="440" y="-40" width="200" height="200" img="seta_direita (1).png".jpg" on-touch="_NEXT_PAGE"/>
         
     </page>
