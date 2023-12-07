@@ -8,7 +8,7 @@
         
     </page>
     
-    <page background="branco">
+    <page background="branco" soundtrack="Traquinagens - Instrumental.mp3">
         <agent x="60" y="250" width="400" height="200" text="Houve um tempo em que as pessoas se esqueceram de Deus e só faziam coisas erradas. Todos eram maus, apenas um homem junto com a sua família permaneceu amando e obedecendo a Deus. "/>   
        
         <agent x="0" y="80" width="600" height="300" img="pecado.png"/>  
