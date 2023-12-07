@@ -36,7 +36,7 @@
         <agent x="70" y="150"  width="400" height="200" font-size="20" text="Vamos ajudar Nóe a constuir a arca !"/>
         
         
-        <agent x="0" y="0" width="500" height="300" img="noe-2.png".png"/>  
+        <agent x="0" y="0" width="500" height="300" img="noe-2.png"/>  
         <agent x="0" y="-40" width="200" height="200" img="seta_esquerda.png" on-touch="_PREV_PAGE"/> 
         <agent x="440" y="-40" width="200" height="200" img="seta_direita (1).png".jpg" on-touch="_NEXT_PAGE"/>
     </page>
@@ -49,7 +49,7 @@
         <agent x="80" y="270"  font-size="20" text="O que vamos precisar Primeiro?">
         </agent>
         <agent x="10" y="50" img="tree-576145_640.png" width="160" height="160" on-touch="_GOTO_PAGE:7">
-        <agent x="10" y="50" img="noe-2.png/>    
+        <agent x="10" y="50" img="moldura.png"/>    
         </agent>
         <agent x="170" y="50" img="drink-156158_1280.png" width="160" height="160" on-touch="_GOTO_PAGE:6">
         </agent>
