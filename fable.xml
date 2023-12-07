@@ -48,7 +48,7 @@
          </agent>   
         <agent x="10" y="300" font-size="20" text="Escolha sua jornada">
         </agent>
-        <agent x="10" y="50" img="1.png" width="160" height="220" on-touch="_GOTO_PAGE:2">
+        <agent x="10" y="50" img="1" width="160" height="220" on-touch="_GOTO_PAGE:2">
         </agent>
         <agent x="170" y="50" img="2.png" width="160" height="220" on-touch="_GOTO_PAGE:4">
         </agent>
