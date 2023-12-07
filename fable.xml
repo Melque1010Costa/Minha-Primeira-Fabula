@@ -33,7 +33,7 @@
        
         
        <agent x="60" y="250"  width="400" height="200" text="Certo dia, em uma de suas orações, Deus avisou Noé que o mundo iria sofrer um grande dilúvio e que Noé precisaria construir uma grande embarcação."/>
-        <agent x="60" y="250"  width="400" height="200" text="Certo dia, em uma de suas orações, Deus avisou Noé que o mundo iria sofrer um grande dilúvio e que Noé precisaria construir uma grande embarcação."/>
+        <agent x="60" y="300"  width="400" height="200" text="Vamos ajudar Nóe a constuir a arca."/>
         
         
         <agent x="0" y="0" width="500" height="300" img="noe-2.png".png"/>  
