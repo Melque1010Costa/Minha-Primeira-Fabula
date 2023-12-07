@@ -123,7 +123,7 @@
         </agent>
         <agent x="170" y="50" img="casal.png" width="160" height="160" on-touch="_GOTO_PAGE:11">
         </agent>
-        <agent x="330" y="50" img="dog.png" width="160" height="160" on-touch="_GOTO_PAGE:10">
+        <agent x="330" y="50" img="dog-removebg-preview.png".png" width="160" height="160" on-touch="_GOTO_PAGE:10">
         </agent>
         
         <agent x="0" y="-40" width="200" height="200" img="seta_esquerda.png" on-touch="_PREV_PAGE"/> 
