@@ -153,6 +153,15 @@
         <agent x="440" y="-40" width="200" height="200" img="seta_direita (1).png".jpg" on-touch="_NEXT_PAGE"/>
         
     </page>
+
+    <page background="branco" >
+        <agent x="60" y="250" width="400" height="200" text="Depois quqe todos estavam dentro a chuva começou a cair.E choveu, e choveu.A arca balançava pra lá e pra cá sobre as águas "/>   
+       
+        <agent x="0" y="80" width="600" height="300" img="imagem_2023-12-07_043825655.png"/>  
+        <agent x="0" y="-40" width="200" height="200" img="seta_esquerda.png" on-touch="_PREV_PAGE"/> 
+        <agent x="440" y="-40" width="200" height="200" img="seta_direita (1).png".jpg" on-touch="_NEXT_PAGE"/>
+        
+    </page>
        
 
      <page background="campo_batalha.jpg" >
