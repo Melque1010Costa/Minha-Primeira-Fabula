@@ -165,9 +165,9 @@
     <page background="branco" soundtrack="bbc_unidentifi_nhu0505014 (1).mp3" >
         <agent x="60" y="250" width="400" height="200" text=" A arca finalmente repousou no topo de uma montanha.Todos ficaram muito felizes, com um lindo arco-íris que ficou como simbolo da promessa divina de que nunca mais haveria um dilúvio na terra outra vez. "/>   
        
-        <agent x="0" y="70" width="600" height="300" img="imagem_2023-12-07_044703627.png"/>  
+        <agent x="0" y="65" width="600" height="300" img="imagem_2023-12-07_044703627.png"/>  
         <agent x="0" y="-40" width="200" height="200" img="seta_esquerda.png" on-touch="_PREV_PAGE"/> 
-        <agent x="440" y="-120" width="200" height="200"  font-size="20" text="Fim"/>
+        <agent x="440" y="-130" width="200" height="200"  font-size="20" text="Fim"/>
         
     </page>
        
