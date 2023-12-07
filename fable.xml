@@ -32,7 +32,7 @@
     <page background="OIG.jpg" >
        
         
-       <agent x="100" y="320" text="Deus estava triste com as pessoas , mas não se esqueceu de Nóe. Ele falou para Nóe sobre seu plano de começar tudo de novo."/>
+       <agent x="100" y="320" text="Certo dia, em uma de suas orações, Deus avisou Noé que o mundo iria sofrer um grande dilúvio e que Noé precisaria construir uma grande embarcação."/>
         
        <agent x="0" y="20" width="50" height="50" img="Sign_back.png" on-touch="_PREV_PAGE"/> 
         
