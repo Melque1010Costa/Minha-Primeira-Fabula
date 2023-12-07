@@ -1,7 +1,7 @@
 <fable>
 
     <page background="branco">
-        <agent x="210" y="250" width="400" height="200" text="O Diluvio"/>   
+        <agent x="200" y="250" width="400" height="200" font-size="30" text="O Diluvio"/>   
        
         <agent x="0" y="100" width="500" height="300" img="imagem_2023-12-06_233908036.png"/>  
         <agent x="440" y="-40" width="200" height="200" img="seta_direita (1).png".jpg" on-touch="_NEXT_PAGE"/>
@@ -19,7 +19,7 @@
     
 	<page background="branco"  >
         <agent soundtrack="695964__gamer500__hello.wav"
-        <agent x="80" y="250" width="400" height="200" text="E esse homem se chamava nóe.Noé era um homem justo e obediente a Deus em meio a uma geração que havia se afastado dos caminhos do Senhor."/>   
+        <agent x="80" y="250" width="400" height="200" font-size="10" text="E esse homem se chamava nóe.Noé era um homem justo e obediente a Deus em meio a uma geração que havia se afastado dos caminhos do Senhor."/>   
        
         <agent x="20" y="50" width="500" height="300" img="noe1.png"/>  
         <agent x="0" y="-40" width="200" height="200" img="seta_esquerda.png" on-touch="_PREV_PAGE"/> 
@@ -43,10 +43,10 @@
 
     
      <page background="branco">
-        <agent x="90" y="250"  width="400" height="200" cafe animado text="O que vamos precisar para construir a arca?">
+        <agent x="90" y="250"  width="400" height="200" font-size="20" text="O que vamos precisar para construir a arca?">
              <Davi x="240" y="80" width="100" height="150" img="davi_solo.png"/>
          </agent>   
-        <agent x="110" y="350" font-size="20" text="O que vamos precisar Primeiro?">
+        <agent x="110" y="350"  text="O que vamos precisar Primeiro?">
         </agent>
         <agent x="10" y="50" img="tree-576145_640.png" width="160" height="160" on-touch="_GOTO_PAGE:2">
         </agent>
