@@ -119,15 +119,28 @@
         <agent x="120" y="270" width="300" height="100" font-size="13" text="Qual Imagem a baixo atende a condição?">
         </agent>
 
-        <agent x="10" y="50" img="tigr.png" width="160" height="160" on-touch="_GOTO_PAGE:1">
+        <agent x="10" y="50" img="tigr.png" width="160" height="160" on-touch="_GOTO_PAGE:10">
         </agent>
-        <agent x="170" y="50" img="casal.png" width="160" height="160" on-touch="_GOTO_PAGE:6">
+        <agent x="170" y="50" img="casal.png" width="160" height="160" on-touch="_GOTO_PAGE:11">
         </agent>
-        <agent x="330" y="50" img="dog.png" width="160" height="160" on-touch="_GOTO_PAGE:11">
+        <agent x="330" y="50" img="dog.png" width="160" height="160" on-touch="_GOTO_PAGE:10">
         </agent>
         
         <agent x="0" y="-40" width="200" height="200" img="seta_esquerda.png" on-touch="_PREV_PAGE"/> 
         <agent x="440" y="-40" width="200" height="200" img="seta_direita (1).png".jpg" on-touch="_NEXT_PAGE"/>
+        
+    </page>
+
+    <page background="branco" >
+       
+        
+       <agent x="110" y="250"  width="400" height="200" font-size="20" text="Não Vamos precisar disso!"/>
+         
+        <agent x="140" y="190"  width="400" height="200" font-size="20" text="Tente novamente !"/>
+        
+        
+       <agent x="140" y="90" width="200" height="200" img="cross-296507_1280.png".png".png"/>  
+        <agent x="0" y="-40" width="200" height="200" img="seta_esquerda.png" on-touch="_GOTO_PAGE:5"/> 
         
     </page>
 
