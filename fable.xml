@@ -168,57 +168,11 @@
        
         <agent x="0" y="80" width="600" height="300" img="imagem_2023-12-07_044703627.png"/>  
         <agent x="0" y="-40" width="200" height="200" img="seta_esquerda.png" on-touch="_PREV_PAGE"/> 
-        <agent x="440" y="-40" width="200" height="200"  font-size="20" text="Fim"/>
+        <agent x="440" y="0" width="200" height="200"  font-size="20" text="Fim"/>
         
     </page>
        
 
-     <page background="campo_batalha.jpg" >
-        <agent x="300" y="80" width="180" height="290" img="golias_solo.png" drop-zone="derrota">
-            <derrota x="200" y="70" width="300" height="100" img="golias_derrota.png"/>
-        </agent>
-         
-        <agent x="-35" y="320" width="2000" height="200" img="balao_novoo.png"/>
-        
-        <agent x="80" y="370" width="300" height="100" text="==Jogue a pedra em Golias=="/>
-
-        <agent x="-10" y="80" width="200" height="180" img="Davi_jogando_pedra.png"/>
-        <agent x="130" y="270" width="40" height="40" img="pedra2-removebg-preview.png" draggable="true" on-drop="derrota"/>
-        <agent x="440" y="20" width="50" height="50" img="Sign_2.png" on-touch="_NEXT_PAGE"/>
-        <agent x="0" y="20" width="50" height="50" img="Sign_back.png" on-touch="_PREV_PAGE"/> 
-
-     </page>
-
-    <page background="campo_batalha.jpg">
-        <agent x="80" y="0" width="300" height="300" img="davi_raivoso.png"/>
-        
-        <agent x="-35" y="320" width="2000" height="200" img="balao_novoo.png"/>
-        
-        <agent x="80" y="370" width="300" height="100" text="Depois de seu grande feito, Davi ficou muito popular no meio de seu povo" on-touch="davi">
-            <davi text="Conseguindo assim a admiração e respeito do povo de Israel"/>
-        </agent>
-        <agent x="440" y="20" width="50" height="50" img="Sign_2.png" on-touch="_NEXT_PAGE"/>
-        <agent x="0" y="20" width="50" height="50" img="Sign_back.png" on-touch="_PREV_PAGE"/> 
-    </page>
-    
-    <page background="background_coroacao.jpeg">
-        <agent x="-35" y="340" width="2000" height="200" img="balao_novoo.png"/>
-        
-        <agent x="190" y="304" width="120" height="120" img="rei_davi2.png"/>
-        
-        <agent x="80" y="390" width="300" height="100" text="Anos mais tarde, após a morte de Saul (primeiro rei de Israel), Davi é coroado rei!" on-touch="rei_davi">
-            <rei_davi text="Governando sobre toda Israel e Judá!"/>
-        </agent>
-        <agent x="440" y="20" width="50" height="50" img="Sign_2.png" on-touch="_NEXT_PAGE"/>
-        <agent x="0" y="20" width="50" height="50" img="Sign_back.png" on-touch="_PREV_PAGE"/> 
-    </page>
-
-    <page background="background_coroacao.jpeg">
-        
-        
-        <agent x="200" y="290" width="220" height="100" text="Orlando Neto" />
-        <agent x="200" y="270" width="220" height="100" text="Josiel Junior" />
-        <agent x="0" y="20" width="50" height="50" img="Sign_back.png" on-touch="_PREV_PAGE"/> 
-    </page>
+     
 
 </fable>
