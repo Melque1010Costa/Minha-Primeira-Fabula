@@ -48,21 +48,13 @@
          </agent>   
         <agent x="80" y="270"  font-size="20" text="O que vamos precisar Primeiro?">
         </agent>
-        <agent x="10" y="50" img="tree-576145_640.png" width="160" height="160" on-touch="_GOTO_PAGE:2">
+        <agent x="10" y="50" img="tree-576145_640.png" width="160" height="160" on-touch="_GOTO_PAGE:7">
         </agent>
-        <agent x="170" y="50" img="drink-156158_1280.png" width="160" height="160" on-touch="_GOTO_PAGE:4">
+        <agent x="170" y="50" img="drink-156158_1280.png" width="160" height="160" on-touch="_GOTO_PAGE:6">
         </agent>
         <agent x="330" y="50" img="Pão.png" width="160" height="160" on-touch="_GOTO_PAGE:6">
         </agent>
 
-         
-
-
-         
-
-         
-        
-         
          <agent x="0" y="20" width="50" height="50" img="Sign_back.png" on-touch="_PREV_PAGE"/> 
         
      </page>
