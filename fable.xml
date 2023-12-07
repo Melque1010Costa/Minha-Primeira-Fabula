@@ -134,13 +134,13 @@
     <page background="branco" >
        
         
-       <agent x="110" y="250"  width="400" height="200" font-size="20" text="Não Vamos precisar disso!"/>
+       <agent x="110" y="250"  width="400" height="200" font-size="20" text="Esse não é um Casal"/>
          
         <agent x="140" y="190"  width="400" height="200" font-size="20" text="Tente novamente !"/>
         
         
        <agent x="140" y="90" width="200" height="200" img="cross-296507_1280.png".png".png"/>  
-        <agent x="0" y="-40" width="200" height="200" img="seta_esquerda.png" on-touch="_GOTO_PAGE:5"/> 
+        <agent x="0" y="-40" width="200" height="200" img="seta_esquerda.png" on-touch="_GOTO_PAGE:9"/> 
         
     </page>
 
