@@ -43,10 +43,10 @@
 
     
      <page background="branco">
-        <agent x="90" y="250"  width="400" height="200" text="O que vamos precisar para construir a arca?">
+        <agent x="90" y="250"  width="400" height="200" cafe animado text="O que vamos precisar para construir a arca?">
              <Davi x="240" y="80" width="100" height="150" img="davi_solo.png"/>
          </agent>   
-        <agent x="130" y="350" font-size="20" text="Escolha sua jornada">
+        <agent x="110" y="350" font-size="20" text="O que vamos precisar Primeiro?">
         </agent>
         <agent x="10" y="50" img="tree-576145_640.png" width="160" height="160" on-touch="_GOTO_PAGE:2">
         </agent>
