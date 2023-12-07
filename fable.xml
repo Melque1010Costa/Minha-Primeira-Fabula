@@ -110,11 +110,11 @@
          </agent>   
         <agent x="80" y="270"  font-size="20" text="O que mais vamos precisar?">
         </agent>
-        <agent x="10" y="50" img="hammer.png" width="160" height="160" on-touch="_GOTO_PAGE:9">
+        <agent x="10" y="50" img="hammer.png" width="160" height="160" on-touch="_GOTO_PAGE:11">
         </agent>
-        <agent x="170" y="50" img="lapis.png" width="160" height="160" on-touch="_GOTO_PAGE:8">
+        <agent x="170" y="50" img="lapis.png" width="160" height="160" on-touch="_GOTO_PAGE:10">
         </agent>
-        <agent x="330" y="50" img="bananas.png" width="160" height="160" on-touch="_GOTO_PAGE:8">
+        <agent x="330" y="50" img="bananas.png" width="160" height="160" on-touch="_GOTO_PAGE:10">
         </agent>
 
          <agent x="0" y="20" width="50" height="50" img="Sign_back.png" on-touch="_PREV_PAGE"/> 
