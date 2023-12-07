@@ -60,7 +60,18 @@
      </page>
     
 
-     
+     <page background="branco" >
+       
+        
+       <agent x="110" y="250"  width="400" height="200" font-size="20" text="Não Vamos precisar disso!"/>
+         
+        <agent x="140" y="190"  width="400" height="200" font-size="20" text="Tente novamente !"/>
+        
+        
+       <agent x="140" y="90" width="200" height="200" img="cross-296507_1280.png".png".png"/>  
+        <agent x="0" y="-40" width="200" height="200" img="seta_esquerda.png" on-touch="_GOTO_PAGE:5"/> 
+        
+    </page>
     
      <page background="branco">
         <agent x="70" y="250"  width="400" height="200" font-size="30" text="O que vamos precisar para construir a arca?">
@@ -68,7 +79,7 @@
         </agent>   
         <agent x="80" y="270"  font-size="20" text="O que mais vamos precisar?">
         </agent>
-        <agent x="10" y="50" img="imagem_2023-12-07_024849118.png" width="160" height="160" on-touch="_NEXT_PAGE">
+        <agent x="10" y="50" img="imagem_2023-12-07_024849118.png" width="160" height="160" on-touch="_GOTO_PAGE:8">
         </agent>
         <agent x="170" y="50" img="chapel.png" width="160" height="160" on-touch="_GOTO_PAGE:6">
         </agent>
