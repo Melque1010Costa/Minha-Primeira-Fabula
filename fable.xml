@@ -126,8 +126,7 @@
         <agent x="330" y="110" img="dog-removebg-preview.png" width="160" height="160" on-touch="_GOTO_PAGE:10">
         </agent>
         
-        <agent x="0" y="-40" width="200" height="200" img="seta_esquerda.png" on-touch="_PREV_PAGE"/> 
-        <agent x="440" y="-40" width="200" height="200" img="seta_direita (1).png".jpg" on-touch="_NEXT_PAGE"/>
+       
         
     </page>
 
@@ -168,7 +167,7 @@
        
         <agent x="0" y="80" width="600" height="300" img="imagem_2023-12-07_044703627.png"/>  
         <agent x="0" y="-40" width="200" height="200" img="seta_esquerda.png" on-touch="_PREV_PAGE"/> 
-        <agent x="440" y="100" width="200" height="200"  font-size="20" text="Fim"/>
+        <agent x="440" y="-120" width="200" height="200"  font-size="20" text="Fim"/>
         
     </page>
        
