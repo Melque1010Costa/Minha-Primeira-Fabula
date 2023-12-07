@@ -116,7 +116,7 @@
         
         <agent x="110" y="370" width="300" height="100" font-size="15" text="Agora que ja temos a arca,nossa proxima tarefa é selecionar 2 animais de cada especie para levar para arca!">
         </agent>
-        <agent x="110" y="270" width="300" height="100" font-size="15" text="Qual Ima">
+        <agent x="110" y="270" width="300" height="100" font-size="13" text="Qual Imagem a baixo atende a condição?">
         </agent>
         
         <agent x="0" y="-40" width="200" height="200" img="seta_esquerda.png" on-touch="_PREV_PAGE"/> 
