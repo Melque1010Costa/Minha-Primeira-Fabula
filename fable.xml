@@ -112,7 +112,7 @@
         </agent>
         <agent x="10" y="50" img="hammer.png" width="160" height="160" on-touch="_GOTO_PAGE:9">
         </agent>
-        <agent x="170" y="50" img="chapel.png" width="160" height="160" on-touch="_GOTO_PAGE:8">
+        <agent x="170" y="50" img="lapis.png" width="160" height="160" on-touch="_GOTO_PAGE:8">
         </agent>
         <agent x="330" y="50" img="hamburger.png" width="160" height="160" on-touch="_GOTO_PAGE:8">
         </agent>
