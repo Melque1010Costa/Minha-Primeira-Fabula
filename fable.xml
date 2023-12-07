@@ -70,8 +70,9 @@
      <page background="branco" >
        
         
-       <agent x="60" y="250"  width="400" height="200" font-size="15" text="Certo dia, em uma de suas orações, Deus avisou Noé que o mundo iria sofrer um grande dilúvio e que Noé precisaria construir uma grande embarcação."/>
-        <agent x="70" y="150"  width="400" height="200" font-size="20" text="Vamos ajudar Nóe a constuir a arca !"/>
+       <agent x="60" y="250"  width="400" height="200" font-size="15" text="Não Vamos precisar disso!"/>
+         
+        <agent x="70" y="150"  width="400" height="200" font-size="20" text="Tente novamento !"/>
         
         
         <agent x="0" y="0" width="500" height="300" img="noe-2.png".png"/>  
