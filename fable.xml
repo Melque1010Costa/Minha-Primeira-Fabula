@@ -48,8 +48,7 @@
          </agent>   
         <agent x="80" y="270"  font-size="20" text="O que vamos precisar Primeiro?">
         </agent>
-        <agent x="10" y="50" img="tree-576145_640.png" width="160" height="160" on-touch="_GOTO_PAGE:7">
-        <agent x="10" y="50" img="moldura.png"/>    
+        <agent x="10" y="50" img="tree-576145_640.png" width="160" height="160" on-touch="_GOTO_PAGE:7"> 
         </agent>
         <agent x="170" y="50" img="drink-156158_1280.png" width="160" height="160" on-touch="_GOTO_PAGE:6">
         </agent>
