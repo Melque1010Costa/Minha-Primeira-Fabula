@@ -2,11 +2,11 @@
 	<page background="branco" soundtrack="Natureza.mp3">
         <agent x="80" y="250" width="400" height="200" text="Você sabe como aconteceu o princípio de tudo?"/>
 
-        <agent x="10" y="320" text="Ouça Davi tocando a sua bela harpa!"/>
+        <agent x="70" y="320" width="600" height="200" text="Ouça Davi tocando a sua bela harpa!"/>
 
         
        
-        <agent x="20" y="20" width="450" height="350" img="forest-8410493_640.jpg"/>  
+        <agent x="20" y="40" width="450" height="350" img="forest-8410493_640.jpg"/>  
         <agent x="440" y="0" width="80" height="90" img="seta_direita (1).png".jpg" on-touch="_NEXT_PAGE"/>
         
     </page>
