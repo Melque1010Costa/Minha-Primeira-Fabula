@@ -17,7 +17,8 @@
         
     </page>
     
-	<page background="branco"  soundtrack="6">
+	<page background="branco"  >
+        <agent soundtrack="695964__gamer500__hello.wav"/>
         <agent x="80" y="250" width="400" height="200" text="E esse homem se chamava nóe.Noé era um homem justo e obediente a Deus em meio a uma geração que havia se afastado dos caminhos do Senhor."/>   
        
         <agent x="100" y="100" width="350" height="250" img="noe.jpg"/>  
