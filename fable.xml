@@ -1,5 +1,5 @@
 <fable>
-	<page background="branco" soundtrack="Natureza.mp3">
+	<page background="branco">
         <agent x="80" y="250" width="400" height="200" text="Certo vez existiu um homem chamado nóe"/>   
        
         <agent x="100" y="100" width="350" height="250" img="noe.jpg"/>  
