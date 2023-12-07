@@ -52,7 +52,7 @@
         </agent>
         <agent x="170" y="50" img="drink-156158_1280.png" width="160" height="220" on-touch="_GOTO_PAGE:4">
         </agent>
-        <agent x="330" y="50" img="3.png" width="160" height="220" on-touch="_GOTO_PAGE:6">
+        <agent x="330" y="50" img="Pão.png" width="160" height="220" on-touch="_GOTO_PAGE:6">
         </agent>
 
          
